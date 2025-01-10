@@ -1,6 +1,6 @@
 # **Image Color Quantization Using K-means Clustering**
 
-![Preview](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_18_5.png)
+![Preview](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section3.1.png)
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)  
 [![Libraries](https://img.shields.io/badge/Libraries-Scikit--learn%2C%20Matplotlib%2C%20Seaborn%2C%20Numpy-green)](https://scikit-learn.org/)  
@@ -28,7 +28,6 @@ The implementation is structured in a clear and modular Jupyter Notebook, enabli
 - 🛠  [Implementation Details & Structure](#-implementation-details--structure)
 - 📌 [How to Use](#-how-to-use)
 - 📊 [Visual Results](#-visual-results)
-- 💡 [Conclusion and Insights](#-conclusion-and-insights)
 
 ---
 
@@ -129,33 +128,25 @@ Below are visual results from each section of the notebook, showcasing the outpu
 #### **1. Synthetic Dataset and K-means Clustering**
 The synthetic dataset was clustered using K-means for various values of \( K \). Each cluster is represented with a different color, and centroids are marked with red crosses.
 
-![K-means Clustering](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_10_0.png)
+![K-means Clustering](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section1.png)
 
 ---
 
+#### **2. Image Color Quantization (Original vs Quantized Images)**
+The original image was quantized using K-means clustering for different values of \( K \). Below are comparisons for \( K = 4 \) and \( K = 16 \).
 
-#### **3. Image Color Quantization (Original vs Quantized Images)**
-The original image was quantized using K-means clustering for different values of \( K \). Below are comparisons for \( K = 4 \) and \( K = 64 \).
+![Quantized Image K=4](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section3.1.png)
 
-**Original Image:**
-![Original Image](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_18_1.png)
-
-**Quantized Image (K=4):**
-![Quantized Image K=4](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_18_3.png)
-
-**Quantized Image (K=64):**
-![Quantized Image K=64](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_18_5.png)
+![Quantized Image K=16](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section3.2.png)
 
 ---
 
-#### **4. Dimensionality Reduction with PCA**
+#### **3. Dimensionality Reduction with PCA**
 The RGB pixel data of the image was reduced to 2D using PCA, visualized as a scatter plot. This reduced representation was then clustered using K-means, and the results were mapped back to the original RGB space.
 
-**PCA Scatter Plot:**
-![PCA Scatter Plot](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_22_0.png)
+![PCA Scatter Plot](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section4.1.png)
 
-**Quantized Image with PCA (K=4):**
-![PCA Quantized Image K=4](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_22_1.png)
+![PCA Quantized Image K](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section4.2.png)
 
 ---
 
