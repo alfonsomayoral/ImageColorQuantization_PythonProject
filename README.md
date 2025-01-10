@@ -118,9 +118,11 @@ _Follow these step-by-step instructions to set up and run the project on your lo
 
 **With these steps, you can fully explore and experiment with the project. Happy coding! 🚀**
 
+---
+
 ### 📊 **Visual Results**
 
-Below are visual results from each section of the notebook, showcasing the outputs generated during the implementation:
+Below are visual results from each section of the notebook, showcasing the outputs generated during the implementation. This section highlights the progression and results from each stage of the project, providing a clear and visual understanding of the outcomes. 🎨
 
 ---
 
@@ -131,12 +133,6 @@ The synthetic dataset was clustered using K-means for various values of \( K \).
 
 ---
 
-#### **2. Evaluating Clusters with SSE (Elbow Method)**
-The Sum of Squared Errors (SSE) was plotted against \( K \) to determine the optimal number of clusters using the "elbow method."
-
-![SSE Elbow Method](Image_Color_Quatization_Using_Kmeans_Clustering_files/Image_Color_Quatization_Using_Kmeans_Clustering_13_1.png)
-
----
 
 #### **3. Image Color Quantization (Original vs Quantized Images)**
 The original image was quantized using K-means clustering for different values of \( K \). Below are comparisons for \( K = 4 \) and \( K = 64 \).
@@ -163,4 +159,3 @@ The RGB pixel data of the image was reduced to 2D using PCA, visualized as a sca
 
 ---
 
-This section highlights the progression and results from each stage of the project, providing a clear and visual understanding of the outcomes. 🎨
