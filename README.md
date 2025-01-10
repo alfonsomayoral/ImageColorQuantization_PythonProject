@@ -1,10 +1,10 @@
 # **Image Color Quantization Using K-means Clustering**
 
-![Preview](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section3.1.png)
-
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)  
 [![Libraries](https://img.shields.io/badge/Libraries-Scikit--learn%2C%20Matplotlib%2C%20Seaborn%2C%20Numpy-green)](https://scikit-learn.org/)  
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](#)
+
+![Preview](https://github.com/alfonsomayoral/ImageColorQuantization_PythonProject/blob/main/assets/Section3.1.png)
 
 ---
 
