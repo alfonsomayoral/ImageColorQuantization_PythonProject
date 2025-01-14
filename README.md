@@ -31,7 +31,7 @@ The implementation is structured in a clear and modular Jupyter Notebook, enabli
 
 ---
 
-### 🚀 **Introduction**
+## 🚀 **Introduction**
 The project leverages **unsupervised machine learning techniques**:
 1. **K-means clustering**: Partitioning data into clusters by minimizing intra-cluster variance.
 2. **Principal Component Analysis (PCA)**: Reducing data dimensionality while retaining key variance.
@@ -43,7 +43,7 @@ This notebook demonstrates their integration for tasks like:
 
 ---
 
-### 🛠 **Implementation Details & Structure**
+## 🛠 **Implementation Details & Structure**
 #### 1. **Introduction and Setup**
    - Key libraries: `NumPy`, `Scikit-learn`, `Matplotlib`, and `Seaborn`.
    - Overview of clustering (K-means) and dimensionality reduction (PCA) concepts.
@@ -68,7 +68,7 @@ This notebook demonstrates their integration for tasks like:
 
 ---
 
-### 📌 **How to Use**
+## 📌 **How to Use**
 
 _Follow these step-by-step instructions to set up and run the project on your local machine._
 
@@ -119,7 +119,7 @@ _Follow these step-by-step instructions to set up and run the project on your lo
 
 ---
 
-### 📊 **Visual Results**
+## 📊 **Visual Results**
 
 Below are visual results from each section of the notebook, showcasing the outputs generated during the implementation. This section highlights the progression and results from each stage of the project, providing a clear and visual understanding of the outcomes. 🎨
 
